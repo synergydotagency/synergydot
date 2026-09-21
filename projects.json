@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "chameleon",
+    "name": "Chameleon Seasonings",
+    "category": "Brand identity & packaging",
+    "type": "Branding",
+    "industry": "Food & seasonings",
+    "image": "projects/chameleon-4.jpg",
+    "intro": "A vibrant identity built around transformation, versatility and the world of flavor.",
+    "description": "The chameleon becomes the central symbol of a seasoning brand shaped by variety. Color distinguishes the blends, while a consistent logo system connects packaging, stationery and physical brand applications.",
+    "deliverables": [
+      "Logo & color system",
+      "Packaging design",
+      "Stationery & brand applications"
+    ],
+    "gallery": [
+      {
+        "image": "projects/chameleon-1.jpg",
+        "alt": "Chameleon Seasonings identity and chameleon imagery"
+      },
+      {
+        "image": "projects/chameleon-3.jpg",
+        "alt": "Color-coded Chameleon logo variations"
+      },
+      {
+        "image": "projects/chameleon-5.jpg",
+        "alt": "Chameleon branded identification cards"
+      },
+      {
+        "image": "projects/chameleon-6.jpg",
+        "alt": "Chameleon glass signage application"
+      },
+      {
+        "image": "projects/chameleon-7.jpg",
+        "alt": "Chameleon stationery collection"
+      },
+      {
+        "image": "projects/chameleon-8.jpg",
+        "alt": "Chameleon phone case applications"
+      },
+      {
+        "image": "projects/chameleon-9.jpg",
+        "alt": "Chameleon environmental branding"
+      }
+    ],
+    "alt": "Chameleon Seasonings — Brand identity & packaging"
+  },
+  {
+    "slug": "pixi",
+    "name": "Pixi",
+    "category": "Brand identity & art direction",
+    "type": "Branding",
+    "industry": "Creative agency",
+    "image": "projects/pixi-3.jpg",
+    "intro": "A playful digital identity with room for creativity.",
+    "description": "Square-based letterforms connect the identity to pixels and the digital world. The open space within the wordmark creates room for expression, while the dots represent communication and collaboration. Blue anchors a lively palette of yellow, pink and turquoise.",
+    "deliverables": [
+      "Logo design",
+      "Visual identity system",
+      "Stationery & digital applications"
+    ],
+    "gallery": [
+      {
+        "image": "projects/pixi-1.jpg",
+        "alt": "Pixi logo and colorful visual elements"
+      },
+      {
+        "image": "projects/pixi-2.jpg",
+        "alt": "Pixi logo construction and brand storytelling"
+      },
+      {
+        "image": "projects/pixi-4.jpg",
+        "alt": "Pixi social media brand application"
+      },
+      {
+        "image": "projects/pixi-5.jpg",
+        "alt": "Pixi exterior signage application"
+      }
+    ],
+    "alt": "Pixi — Brand identity & art direction"
+  },
+  {
+    "slug": "hostera",
+    "name": "Hostera Group",
+    "category": "Logo design",
+    "image": "projects/hostera.svg",
+    "intro": "An elegant identity in black and gold.",
+    "description": "Fine serif letterforms and a restrained gold secondary line give the Hostera Group wordmark a composed, refined presence.",
+    "type": "Visual identity",
+    "industry": "Logo collection",
+    "deliverables": [
+      "Logo design"
+    ],
+    "gallery": [],
+    "alt": "Hostera Group — Logo design"
+  },
+  {
+    "slug": "orlune",
+    "name": "Orlune",
+    "category": "Logo design",
+    "image": "projects/orlune.jpg",
+    "intro": "Expressive letterforms. A character all its own.",
+    "description": "A distinctive black wordmark with sculptural curves, playful proportions and a confident silhouette.",
+    "type": "Visual identity",
+    "industry": "Logo collection",
+    "deliverables": [
+      "Logo design"
+    ],
+    "gallery": [],
+    "alt": "Orlune — Logo design"
+  },
+  {
+    "slug": "dot-academy",
+    "name": "Dot Academy",
+    "category": "Logo design",
+    "image": "projects/dot-academy.jpg",
+    "intro": "Connected dots. A shared identity.",
+    "description": "A geometric arrangement of open and filled circles pairs with a clear wordmark. The red accent and “By Synergy Dot” signature connect the academy to the parent brand.",
+    "type": "Visual identity",
+    "industry": "Logo collection",
+    "deliverables": [
+      "Logo design"
+    ],
+    "gallery": [],
+    "alt": "Dot Academy — Logo design"
+  },
+  {
+    "slug": "grow-academy",
+    "name": "Grow Academy",
+    "category": "Logo design",
+    "image": "projects/grow-academy.jpg",
+    "intro": "A clear identity with the energy to grow.",
+    "description": "Connected green shapes and contrasting typographic weights form a recognizable identity against a deep blue background.",
+    "type": "Visual identity",
+    "industry": "Logo collection",
+    "deliverables": [
+      "Logo design"
+    ],
+    "gallery": [],
+    "alt": "Grow Academy — Logo design"
+  },
+  {
+    "slug": "nazi-fert",
+    "name": "Nazi Fert",
+    "category": "Logo design",
+    "image": "projects/nazi-fert.jpg",
+    "intro": "A bold mark built from precise geometry.",
+    "description": "Blue and yellow triangular elements create a sharp symbol, paired with a wordmark that balances light and bold lettering.",
+    "type": "Visual identity",
+    "industry": "Logo collection",
+    "deliverables": [
+      "Logo design"
+    ],
+    "gallery": [],
+    "alt": "Nazi Fert — Logo design"
+  },
+  {
+    "slug": "street-myth",
+    "name": "Street Myth",
+    "category": "Logo design",
+    "image": "projects/street-myth.jpg",
+    "intro": "A wordmark with an independent spirit.",
+    "description": "Soft curves and expressive serif details create a distinctive typographic signature in charcoal black.",
+    "type": "Visual identity",
+    "industry": "Logo collection",
+    "deliverables": [
+      "Logo design"
+    ],
+    "gallery": [],
+    "alt": "Street Myth — Logo design"
+  },
+  {
+    "slug": "social-media",
+    "name": "Social, by design",
+    "type": "Selected social creative",
+    "group": "social",
+    "category": "Social media design",
+    "image": "projects/orlune-social-1.jpg",
+    "alt": "Orlune Olivia bag social creative",
+    "intro": "Distinct brands. A considered presence in the feed.",
+    "description": "A selected collection of social media design for Orlune, Pass NetZero and Nazi Fert. Fashion-led compositions, research communication and product-focused design show how a visual identity can adapt to different audiences and messages.",
+    "deliverables": [
+      "Social media graphics",
+      "Product-focused layouts",
+      "Visual brand consistency"
+    ],
+    "gallery": [
+      {
+        "image": "projects/orlune-social-2.jpg",
+        "alt": "Orlune — Blush Knot bag social media design"
+      },
+      {
+        "image": "projects/pass-netzero-social.jpg",
+        "alt": "Pass NetZero — nature-based water research social media design"
+      },
+      {
+        "image": "projects/nazi-fert-social.jpg",
+        "alt": "Nazi Fert — building block product social media design"
+      }
+    ]
+  }
+]
